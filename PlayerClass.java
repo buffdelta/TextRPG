@@ -1,4 +1,4 @@
-public abstract class PlayerClass {
+public class PlayerClass {
     private int hp;
     private int armor;
     private int dex;

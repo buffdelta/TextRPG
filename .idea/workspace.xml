@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d4ba80dc-a4c2-4af3-bde9-ea551835c873" name="Changes" comment="" />
+    <list default="true" id="d4ba80dc-a4c2-4af3-bde9-ea551835c873" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PlayerClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/PlayerClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProcessAction.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProcessAction.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,6 +50,7 @@
       <option name="presentableId" value="Default" />
       <updated>1664388307262</updated>
       <workItem from="1664388309903" duration="491000" />
+      <workItem from="1665001594626" duration="901000" />
     </task>
     <servers />
   </component>

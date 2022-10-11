@@ -1,7 +1,5 @@
 
-import java.io.FileNotFoundException;
-import java.util.Locale;
-import java.util.Scanner;
+\import java.util.Scanner;
 
 public class ProcessAction {
 
@@ -19,14 +17,9 @@ public class ProcessAction {
         String playerClass = scanner.next();
         playerClass = playerClass.toLowerCase();
 
-
-        KnightClass playerClass1 = null;
         switch (playerClass) {
             case "1.":
             case "knight":
-
-                playerClass1 = new KnightClass();
-                System.out.println(playerClass1.getHp());
 
                 break;
             case "2.":
